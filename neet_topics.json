@@ -1,0 +1,786 @@
+{
+  "Physics": {
+    "Unit and measurement": [
+      {"name": "The international system of units", "topic_id": 1193},
+      {"name": "Significant Figures", "topic_id": 1194},
+      {"name": "Dimensions of Physical Quantities", "topic_id": 1195},
+      {"name": "Dimensional Formulae and Dimensional equation", "topic_id": 1196},
+      {"name": "Dimensional analysis and its Application", "topic_id": 1197}
+    ],
+    "Motion in a Straight Line": [
+      {"name": "Instantaneous Velocity and Speed", "topic_id": 1198},
+      {"name": "Acceleration", "topic_id": 1199},
+      {"name": "Kinematic equation for uniformly Accelaration Motion", "topic_id": 1200}
+    ],
+    "Motion in a plane": [
+      {"name": "Scalars and Vectors", "topic_id": 1201},
+      {"name": "Addition and subtraction of vectors Graphical Method", "topic_id": 1202},
+      {"name": "Resolution of vectors", "topic_id": 1203},
+      {"name": "Vector Addition-Analytical Method", "topic_id": 1204},
+      {"name": "Motion in a plane", "topic_id": 1205},
+      {"name": "Motion in a plane with constant Accelaration", "topic_id": 1206},
+      {"name": "Projectile motion", "topic_id": 1207},
+      {"name": "Uniform circular motion", "topic_id": 1208}
+    ],
+    "Laws of Motion": [
+      {"name": "Newton's first law of motion", "topic_id": 1209},
+      {"name": "Newton's Second law of motion", "topic_id": 1210},
+      {"name": "Newton's third law of motion", "topic_id": 1211},
+      {"name": "Conservation of Momentum", "topic_id": 1212},
+      {"name": "Equilibrium of a Particle", "topic_id": 1213},
+      {"name": "Common Force in Mechanics", "topic_id": 1214},
+      {"name": "Circular motion", "topic_id": 1215},
+      {"name": "Solving problem in mechanics", "topic_id": 1216}
+    ],
+    "Work,Energy and Power": [
+      {"name": "Introduction", "topic_id": 1217},
+      {"name": "Notions of Work and kinetic Energy : The Work-Energy Theorem", "topic_id": 1218},
+      {"name": "Work", "topic_id": 1219},
+      {"name": "Kinetic energy", "topic_id": 1220},
+      {"name": "Work done by a variable Force", "topic_id": 1221},
+      {"name": "The Concept of Potential Energy", "topic_id": 1222},
+      {"name": "The Conservation of Mechamical energy", "topic_id": 1223},
+      {"name": "The Potential energy of spring", "topic_id": 1224},
+      {"name": "Power", "topic_id": 1225},
+      {"name": "Collisions", "topic_id": 1226}
+    ],
+    "System of Particales and Rotational Motion": [
+      {"name": "Centre of mass", "topic_id": 1228},
+      {"name": "Vector Product of Two vectors", "topic_id": 1229},
+      {"name": "Angular velocity and its relation with linear velocity", "topic_id": 1230},
+      {"name": "Torque and Angular Momentum", "topic_id": 1231},
+      {"name": "Eqilibrium of a Rigid Body", "topic_id": 1232},
+      {"name": "Moment of Inertia", "topic_id": 1233},
+      {"name": "Kinematics of Rotational Motion about a Fixed Axis", "topic_id": 1234},
+      {"name": "Dynamic of Rotational Motion about a fixed axis", "topic_id": 1239},
+      {"name": "Angular Momentum in case of Rotation about a fixed Axis", "topic_id": 1240}
+    ],
+    "Gravitation": [
+      {"name": "Kepler's Laws", "topic_id": 1243},
+      {"name": "Universal Law of Gravitation", "topic_id": 1244},
+      {"name": "Acceleration deu to Gravity of the Earth", "topic_id": 1245},
+      {"name": "Acceleration due to Gravity Below of Above the Surface of Earth", "topic_id": 1246},
+      {"name": "Gravitational Potential Energy", "topic_id": 1247},
+      {"name": "Escape Speed", "topic_id": 1248},
+      {"name": "Earth Satellites", "topic_id": 1249},
+      {"name": "Energy of an Orbiting Satellites", "topic_id": 1250}
+    ],
+    "Mechanical Properties of Solids": [
+      {"name": "Stress-strain Curve", "topic_id": 1251},
+      {"name": "Elastic  Moduli", "topic_id": 1252}
+    ],
+    "Mechanical Properties of Fluids": [
+      {"name": "Pressure", "topic_id": 1253},
+      {"name": "Sreamline Flow", "topic_id": 1254},
+      {"name": "Bernoulli's Principle", "topic_id": 1255},
+      {"name": "Viscosity", "topic_id": 1256},
+      {"name": "Surface Tension", "topic_id": 1257}
+    ],
+    "Thermal Properties of Matter": [
+      {"name": "Measurement of Temperature", "topic_id": 1258},
+      {"name": "Thermal Expansion", "topic_id": 1259},
+      {"name": "Specific Heat Capicity", "topic_id": 1260},
+      {"name": "Calorimetry", "topic_id": 1261},
+      {"name": "Change of State", "topic_id": 1262},
+      {"name": "Heat Transfer", "topic_id": 1263},
+      {"name": "Newton's Law of cooling", "topic_id": 1264}
+    ],
+    "Thermodynamics": [
+      {"name": "First Law of Thermodynamics", "topic_id": 1265},
+      {"name": "Specific Heat Capacity", "topic_id": 1266},
+      {"name": "Thermodynamics State Variables and Equation of State", "topic_id": 1267},
+      {"name": "Thermodynamics Processes", "topic_id": 1268},
+      {"name": "Reversible and Irreversible Processes", "topic_id": 1269},
+      {"name": "Carnot Engine", "topic_id": 1270}
+    ],
+    "Kinetic Theory": [
+      {"name": "Behaviour of Gases", "topic_id": 1271},
+      {"name": "Kinetic theory of an Ideal Gas", "topic_id": 1272},
+      {"name": "Law of Equipartition of Energy", "topic_id": 1273},
+      {"name": "Specific Heat Capacity", "topic_id": 1274},
+      {"name": "Mean Free Path", "topic_id": 1275}
+    ],
+    "Oscillations": [
+      {"name": "Simple Harmonic motion", "topic_id": 1276},
+      {"name": "Simple Harmonic motion and Uniform circular motion", "topic_id": 1277},
+      {"name": "Velocity and accelaration in simple Harmonic motion", "topic_id": 1278},
+      {"name": "Energy in simple Harmonic motion", "topic_id": 1279},
+      {"name": "Force law for Simple Harmonic Motion", "topic_id": 1280},
+      {"name": "The Simple Pendulum", "topic_id": 1281}
+    ],
+    "Waves": [
+      {"name": "Transverse and Longitudinal Waves", "topic_id": 1282},
+      {"name": "Displacement Relation in Progressive Wave", "topic_id": 1283},
+      {"name": "The Speed of a Travelling Wave", "topic_id": 1284},
+      {"name": "The Principle of Superposition of Waves", "topic_id": 1285},
+      {"name": "Reflaction of Waves", "topic_id": 1286},
+      {"name": "Beats", "topic_id": 1287}
+    ],
+    "Electric charges and Fields": [
+      {"name": "Coulomb's Law", "topic_id": 1288},
+      {"name": "Force between Multiple Charges", "topic_id": 1289},
+      {"name": "Electric Field", "topic_id": 1290},
+      {"name": "Electric Field  Lines", "topic_id": 1291},
+      {"name": "Electiec Flux", "topic_id": 1292},
+      {"name": "Electric Dipole", "topic_id": 1293},
+      {"name": "Dipole in a Uniform External Field", "topic_id": 1294},
+      {"name": "Continuous Charge Distribution", "topic_id": 1295},
+      {"name": "Gauss's Law", "topic_id": 1296},
+      {"name": "Applications of Guass's Law", "topic_id": 1297}
+    ],
+    "Electrostatic Potential and Capacitance": [
+      {"name": "Electrostatic Potential", "topic_id": 1298},
+      {"name": "Potential due to a point Charge", "topic_id": 1299},
+      {"name": "Potential due to an Electric Dipole", "topic_id": 1300},
+      {"name": "Potential due to a system of charge", "topic_id": 1301},
+      {"name": "Equipotential Surface", "topic_id": 1302},
+      {"name": "Potential Energy of a System of Charges", "topic_id": 1303},
+      {"name": "Potential Energy of a External Field", "topic_id": 1304},
+      {"name": "Capacitors and Capacitance", "topic_id": 1305},
+      {"name": "The Parallel Plate Capacitor", "topic_id": 1306},
+      {"name": "Effect of Dielectric on Capacitance", "topic_id": 1307},
+      {"name": "Combination of Capacitors", "topic_id": 1308},
+      {"name": "Energy Stored in a Capacitor", "topic_id": 1309}
+    ],
+    "Current Electricity": [
+      {"name": "Introduction", "topic_id": 1310},
+      {"name": "Electric Current", "topic_id": 1311},
+      {"name": "Ohm's Law", "topic_id": 1312},
+      {"name": "Drift of Electrons and the Origin of Resistivity", "topic_id": 1313},
+      {"name": "Limitations of Ohm's Law", "topic_id": 1314},
+      {"name": "Resistivity of Various Materials", "topic_id": 1315},
+      {"name": "Temperature Dependence of Resistance", "topic_id": 1316},
+      {"name": "Electric Energy ,Power", "topic_id": 1317},
+      {"name": "Cells,EMF,Internal Resistance", "topic_id": 1318},
+      {"name": "Cells in Series and in Parallel", "topic_id": 1319},
+      {"name": "Kirchhoff's Rules", "topic_id": 1320},
+      {"name": "Wheatstone Bridge", "topic_id": 1321}
+    ],
+    "Moving Charges and Magnetism": [
+      {"name": "Magnetic Force", "topic_id": 1322},
+      {"name": "Motion in a Magnetic Field", "topic_id": 1323},
+      {"name": "Magnetic Field due to a current element,Biot-Savart Law", "topic_id": 1324},
+      {"name": "Ampere's Circuital law", "topic_id": 1325},
+      {"name": "The Solenoid", "topic_id": 1326},
+      {"name": "Force between Two Parellal currents, the Ampere", "topic_id": 1327},
+      {"name": "Torque on Current Loop, Magnetic Dipole", "topic_id": 1328},
+      {"name": "The Moving Coil Galvanomenter", "topic_id": 1329}
+    ],
+    "Magnetism and Matter": [
+      {"name": "The Bar Magnet", "topic_id": 1330},
+      {"name": "Magnetic Properties of Materials", "topic_id": 1331},
+      {"name": "Magnetism and Gauss's Law", "topic_id": 1332},
+      {"name": "Magnetisation and Magnetic Intensity", "topic_id": 1333}
+    ],
+    "Electromagnetic Induction": [
+      {"name": "Magnetic Flux", "topic_id": 1334},
+      {"name": "Faraday's Law of Induction", "topic_id": 1335},
+      {"name": "Lenz's Law and Conservation of Energy", "topic_id": 1336},
+      {"name": "Motional Electromotive Force", "topic_id": 1337},
+      {"name": "Inductance", "topic_id": 1338},
+      {"name": "AC Generator", "topic_id": 1339}
+    ],
+    "Alternating Current": [
+      {"name": "AC Voltage Applied to a Resistor", "topic_id": 1340},
+      {"name": "AC Voltage Applied to A Capacitor", "topic_id": 1341},
+      {"name": "AC Voltage Applied to a Series LSR Circuit", "topic_id": 1342},
+      {"name": "Power in  AC Circuit: The Power Factor", "topic_id": 1343},
+      {"name": "Transformers", "topic_id": 1344}
+    ],
+    "Electromagnetic Waves": [
+      {"name": "Displacement Current", "topic_id": 1345},
+      {"name": "Electromagnetic Waves", "topic_id": 1346},
+      {"name": "Electromagnetic Spectrum", "topic_id": 1347}
+    ],
+    "Ray Optics and Optical Instrument": [
+      {"name": "Introduction", "topic_id": 1348},
+      {"name": "Reflection of Light by Spherical Mirrors", "topic_id": 1349},
+      {"name": "Reflection", "topic_id": 1350},
+      {"name": "Total Internal Reflection", "topic_id": 1351},
+      {"name": "Reflection at Spherical Surface and by Lenses", "topic_id": 1352},
+      {"name": "Reflection through a Prism", "topic_id": 1353},
+      {"name": "Optical Instruments", "topic_id": 1354}
+    ],
+    "Wave Optics": [
+      {"name": "Introduction", "topic_id": 1356},
+      {"name": "Refraction and Reflection of Plane Waves using Huygens Principle", "topic_id": 1357},
+      {"name": "Coherent and Incoherent Addition of Waves", "topic_id": 1358},
+      {"name": "Interference of Light Waves and Young's Expriments", "topic_id": 1359},
+      {"name": "Diffraction", "topic_id": 1360},
+      {"name": "Polarisation", "topic_id": 1361}
+    ],
+    "Dual Nature of Radiation and Matter": [
+      {"name": "Introduction", "topic_id": 1362},
+      {"name": "Electron Emission", "topic_id": 1363},
+      {"name": "Exprimrntal Study of Photoelectric Effect", "topic_id": 1364},
+      {"name": "Photoelectric Effect and Wave Theory of Light", "topic_id": 1365},
+      {"name": "Einsteins's Photoelectric Equation: Energy Quantum of Radiation", "topic_id": 1366},
+      {"name": "Partical Nature of light:The Photon", "topic_id": 1367},
+      {"name": "Wave Nature of Matter", "topic_id": 1368}
+    ],
+    "Atoms": [
+      {"name": "Alpha-Partical Scattering and Rutherford's Nuclear Model of Atom", "topic_id": 1369},
+      {"name": "Atom Spectra", "topic_id": 1370},
+      {"name": "Bohr Model of the Hydrogen Atom", "topic_id": 1371},
+      {"name": "The line Spectra of the hydrogen atom", "topic_id": 1372},
+      {"name": "de-Broglie's Explanation of Bohr's Second Postulate of Quantisation", "topic_id": 1373}
+    ],
+    "Nuclei": [
+      {"name": "Automic Masses and Composition of Nucleus", "topic_id": 1374},
+      {"name": "Size of the Nucleus", "topic_id": 1375},
+      {"name": "Mass-Energy and nuclear Binding Energy", "topic_id": 1376},
+      {"name": "Nuclear Force", "topic_id": 1377},
+      {"name": "Radioactivity", "topic_id": 1378},
+      {"name": "Nuclear Energy", "topic_id": 1379}
+    ],
+    "Semiconductor Electronics: Material,Device and Simple Circuits": [
+      {"name": "Introduction", "topic_id": 1380},
+      {"name": "Classification of Metals , Conductors and Semioconductors", "topic_id": 1381},
+      {"name": "Intrinsic Semiconductor", "topic_id": 1382},
+      {"name": "Extrinsic Semiconductor", "topic_id": 1383},
+      {"name": "p-n Junction", "topic_id": 1384},
+      {"name": "Semiconductor Diode", "topic_id": 1385},
+      {"name": "Application of  Junction Diode as a Rectifier", "topic_id": 1386}
+    ]
+  },
+  "Chemistry": {
+    "Some Basic Concept of chemistry": [
+      {"name": "Importance of Chemistry", "topic_id": 936},
+      {"name": "Nature of Matter", "topic_id": 937},
+      {"name": "Properties of Matter and their measurement", "topic_id": 938},
+      {"name": "Uncertainity in measurement", "topic_id": 939},
+      {"name": "Laws of chemical Combinationas", "topic_id": 940},
+      {"name": "Dalton's Atomic Theory", "topic_id": 941},
+      {"name": "Atomic and molecular masses", "topic_id": 942},
+      {"name": "Mole Concept and molar masses", "topic_id": 943},
+      {"name": "percentage composition", "topic_id": 944},
+      {"name": "Stiochiometry and Stiochimetric Calculations", "topic_id": 945}
+    ],
+    "Struture of Atoms": [
+      {"name": "Discovery of Subatomic particles", "topic_id": 946},
+      {"name": "Atomic Models", "topic_id": 947},
+      {"name": "Developments leading to the bohr's model of atom", "topic_id": 948},
+      {"name": "Bohr's model for hydrogen atom", "topic_id": 949},
+      {"name": "Towards quantum mechanical model of the atom", "topic_id": 950},
+      {"name": "quantum mechanical model of atom", "topic_id": 951}
+    ],
+    "Classificaiton of Elements and Periodicity in properties": [
+      {"name": "Why do we need to classify elements?", "topic_id": 952},
+      {"name": "Genesis of periodic classificaiton", "topic_id": 953},
+      {"name": "modern periodic law and the present form of the periodic table", "topic_id": 954},
+      {"name": "Nomenclature of element with atomic number > 100", "topic_id": 955},
+      {"name": "Electronic configuration of elements and the periodic table", "topic_id": 956},
+      {"name": "Electronic configuration and types of elements : s-p-d-f-blocks", "topic_id": 957},
+      {"name": "Periodic trends in properties of element", "topic_id": 958}
+    ],
+    "Chemical Bonding and molecular structure": [
+      {"name": "Kossel-Lewis Approach to chemical bonding", "topic_id": 959},
+      {"name": "Ionic or electrovalent bond", "topic_id": 960},
+      {"name": "Bond Parameteres", "topic_id": 966},
+      {"name": "The valancy shell electron pair repulsion theory", "topic_id": 961},
+      {"name": "Hybridisation", "topic_id": 962},
+      {"name": "Molecular orbital theory", "topic_id": 963},
+      {"name": "Bonding in some homonuclear diatomic molecules", "topic_id": 964},
+      {"name": "hydrogen bonding", "topic_id": 965}
+    ],
+    "States of Matter": [
+      {"name": "Intermolecular forces", "topic_id": 968},
+      {"name": "Thermal Energy", "topic_id": 969},
+      {"name": "Intermolecular forces vs Thermal Interactions", "topic_id": 970},
+      {"name": "The gaseous states", "topic_id": 971},
+      {"name": "the gas laws", "topic_id": 972},
+      {"name": "ideal gas equation", "topic_id": 973},
+      {"name": "kinetic energy and molecular speeds", "topic_id": 974},
+      {"name": "kinetic molecular theory of gasses", "topic_id": 975},
+      {"name": "behaviour of real gases deviation from ideal gas behaviour", "topic_id": 976},
+      {"name": "liquefaction of gases", "topic_id": 977},
+      {"name": "liquid state", "topic_id": 978}
+    ],
+    "Thermodynamic": [
+      {"name": "Thermodynamic terms", "topic_id": 980},
+      {"name": "Applications", "topic_id": 981},
+      {"name": "Measurement of ΔU and ΔH calorimetry", "topic_id": 982},
+      {"name": "Enthalpy change ΔrH of Reaction - reaction enthalpy", "topic_id": 983},
+      {"name": "Enthalpies for different types of reaction", "topic_id": 984},
+      {"name": "spontaneity", "topic_id": 985},
+      {"name": "Gibbs energy change and equilibrium", "topic_id": 986}
+    ],
+    "Equilibrium": [
+      {"name": "Equilibrium in physical processes", "topic_id": 988},
+      {"name": "Equilibrium in chemical processes - dynamic equilibrium", "topic_id": 989},
+      {"name": "law of chemical equilibrium and equilibrium constant", "topic_id": 990},
+      {"name": "homogenous equilibrium", "topic_id": 991},
+      {"name": "hetrogeneous equilibrium", "topic_id": 992},
+      {"name": "applications of equilibrium constants", "topic_id": 993},
+      {"name": "realtionship between equilibrium constants (K), reaction quotient(Q), and gibbs energy(G)", "topic_id": 994},
+      {"name": "factors affecting equilibria", "topic_id": 995},
+      {"name": "Ionic equilibrium in solution", "topic_id": 996},
+      {"name": "acids, bases and salts", "topic_id": 997},
+      {"name": "ionisation of acids and bases", "topic_id": 998},
+      {"name": "buffer solutions", "topic_id": 999},
+      {"name": "solubility equilibria of sparingly soluble salts", "topic_id": 1000}
+    ],
+    "Redox Reactions": [
+      {"name": "Classical Idea of Redox Reactions-Oxidation and Reduction Reactions", "topic_id": 1001},
+      {"name": "Redox Reactions in Terms of Electron Transfer Reactions", "topic_id": 1003},
+      {"name": "Oxidation Number", "topic_id": 1002},
+      {"name": "Redox Reactions and Electrode Processes", "topic_id": 1004}
+    ],
+    "Hydrogen": [
+      {"name": "Position of hydrogen in the periodic table", "topic_id": 1005},
+      {"name": "Dihydrogen, H2", "topic_id": 1006},
+      {"name": "Preparation of Dihydrogen,H2", "topic_id": 1007},
+      {"name": "Properties of Dihydrogen", "topic_id": 1008},
+      {"name": "Hybrides", "topic_id": 1009},
+      {"name": "Water", "topic_id": 1010},
+      {"name": "Hydrgen Perioxide(H2,O2)", "topic_id": 1011},
+      {"name": "Heavy water, D2O", "topic_id": 1012},
+      {"name": "Dihydrogen as fuel", "topic_id": 1013}
+    ],
+    "The S-Block Element": [
+      {"name": "Group one element : Alkali metals", "topic_id": 1014},
+      {"name": "General characteristics of the compound of the alkeli metals", "topic_id": 1015},
+      {"name": "Anomalous properties of lithium", "topic_id": 1016},
+      {"name": "some important compounds of sodium", "topic_id": 1017},
+      {"name": "biological importance of sodium and potassium", "topic_id": 1018},
+      {"name": "group 2 element : alkeline earth metals", "topic_id": 1019},
+      {"name": "General characteristics of compounds of the alkeline earth metals", "topic_id": 1020},
+      {"name": "anomalous behaviour of berilium", "topic_id": 1021},
+      {"name": "some important compounds of calcium", "topic_id": 1022},
+      {"name": "biological importance of magnesium and calcium", "topic_id": 1023}
+    ],
+    "The P-block elements": [
+      {"name": "Group 13 elements : the boron family", "topic_id": 1024},
+      {"name": "Important trends and anomalous properties of boron", "topic_id": 1025},
+      {"name": "some important compounds of boron", "topic_id": 1026},
+      {"name": "uses of boron and aluminium and their compounds", "topic_id": 1027},
+      {"name": "group 14 elements : the carbon familly", "topic_id": 1028},
+      {"name": "Important trends and anomalous behaviour of carbon", "topic_id": 1029},
+      {"name": "Allotropes of carbon", "topic_id": 1030},
+      {"name": "some important compounds of carbon and silicon", "topic_id": 1031}
+    ],
+    "Organic Chemistry - Some basic principles and techniques": [
+      {"name": "General introduction", "topic_id": 1032},
+      {"name": "tetravalents of carbon : shapes of organic compound", "topic_id": 1033},
+      {"name": "structural representation of organic compounds", "topic_id": 1034},
+      {"name": "Classification of organic compounds", "topic_id": 1035},
+      {"name": "nomenclature of organic compounds", "topic_id": 1036},
+      {"name": "isomerism", "topic_id": 1037},
+      {"name": "fundamental concepts in organic reaction mechanism", "topic_id": 1038},
+      {"name": "methods of purification of organic compounds", "topic_id": 1039},
+      {"name": "qualitative analysis of orgaic compounds", "topic_id": 1040},
+      {"name": "quantitative analysis", "topic_id": 1041}
+    ],
+    "Hydrocarbons": [
+      {"name": "Classificaiton", "topic_id": 1042},
+      {"name": "Alkanes", "topic_id": 1043},
+      {"name": "alkenes", "topic_id": 1044},
+      {"name": "alkynes", "topic_id": 1045},
+      {"name": "aromatic hydrocarbons", "topic_id": 1046},
+      {"name": "carcinogenicity and toxicity", "topic_id": 1047}
+    ],
+    "Environmental Chemistry": [
+      {"name": "Environmental pollution", "topic_id": 1048},
+      {"name": "atmospheric pollution", "topic_id": 1049},
+      {"name": "water pollution", "topic_id": 1050},
+      {"name": "soil pollution", "topic_id": 1051},
+      {"name": "industrial waste", "topic_id": 1052},
+      {"name": "stratergies to control environmental pollution", "topic_id": 1053},
+      {"name": "green chemistry", "topic_id": 1054}
+    ],
+    "The Solid State": [
+      {"name": "General Characteristics of solid state", "topic_id": 1058},
+      {"name": "Amorphous and Crystalline Solids", "topic_id": 1059},
+      {"name": "Classification of Crystaline Solids", "topic_id": 1060},
+      {"name": "Crystal Lattices and unit cells", "topic_id": 1061},
+      {"name": "Number of atoms in a unit cell", "topic_id": 1062},
+      {"name": "Close Packed Structures", "topic_id": 1063},
+      {"name": "Packing Efficiency", "topic_id": 1064},
+      {"name": "Calculations involving unit cell dimensions", "topic_id": 1065},
+      {"name": "Imperfections in solids", "topic_id": 1066},
+      {"name": "Electrical Properties", "topic_id": 1067},
+      {"name": "Magnetic Properties", "topic_id": 1068}
+    ],
+    "Solutions": [
+      {"name": "Type of solutions", "topic_id": 1069},
+      {"name": "Expressing concentration of solution", "topic_id": 1070},
+      {"name": "Solubility", "topic_id": 1071},
+      {"name": "vapour pressure of liquid solutions", "topic_id": 1072},
+      {"name": "ideal and non-ideal solutions", "topic_id": 1073},
+      {"name": "coligative properties and determination of molar masses", "topic_id": 1074},
+      {"name": "abnormal molar masses", "topic_id": 1075}
+    ],
+    "ElectroChemistry": [
+      {"name": "ElectroChemical cells", "topic_id": 1076},
+      {"name": "galvanic cells", "topic_id": 1077},
+      {"name": "Nernst Equation", "topic_id": 1078},
+      {"name": "Conductance of electrolytic solutions", "topic_id": 1079},
+      {"name": "Electrolytic cells and Electrolysis", "topic_id": 1080},
+      {"name": "Batteries", "topic_id": 1081},
+      {"name": "Fuel Cells", "topic_id": 1082},
+      {"name": "Corrosion", "topic_id": 1083}
+    ],
+    "Chemical Kinetics": [
+      {"name": "Redox Chemical Reaction", "topic_id": 1084},
+      {"name": "Factors influencing rate of reaction", "topic_id": 1085},
+      {"name": "Integrated rate reaction", "topic_id": 1086},
+      {"name": "temperature dependancy of the rate of reaction", "topic_id": 1087},
+      {"name": "collision theory of chemical reaction", "topic_id": 1088}
+    ],
+    "Surface chemistry": [
+      {"name": "Adsorption", "topic_id": 1089},
+      {"name": "Catalysis", "topic_id": 1090},
+      {"name": "Collides", "topic_id": 1091},
+      {"name": "Classification of collides", "topic_id": 1092},
+      {"name": "Emulsions", "topic_id": 1093},
+      {"name": "Collides around us", "topic_id": 1094}
+    ],
+    "General Principal and processes of isolations of Elements": [
+      {"name": "Occurrence of metals", "topic_id": 1095},
+      {"name": "Concentration of ores", "topic_id": 1096},
+      {"name": "extraction of crude metal from concentrated ore", "topic_id": 1097},
+      {"name": "thermodynamic principle of metallurgy", "topic_id": 1098},
+      {"name": "Electrochemical principle of metallurgy", "topic_id": 1099},
+      {"name": "Oxidation reduction", "topic_id": 1100},
+      {"name": "Refinning", "topic_id": 1101},
+      {"name": "Uses of aluminium, copper, zinc and iron", "topic_id": 1102}
+    ],
+    "The p-block Elements": [
+      {"name": "Group 15 elements", "topic_id": 1103},
+      {"name": "Dinitrogen", "topic_id": 1104},
+      {"name": "Amonia", "topic_id": 1105},
+      {"name": "Oxide of nitrogen", "topic_id": 1106},
+      {"name": "nitric acid", "topic_id": 1107},
+      {"name": "phosphorus-allotrophic forms", "topic_id": 1108},
+      {"name": "phosphine", "topic_id": 1109},
+      {"name": "Phosphorus halides", "topic_id": 1110},
+      {"name": "Oxoacids of phosphorus", "topic_id": 1111},
+      {"name": "Group 16 Elements", "topic_id": 1112},
+      {"name": "Dioxygens", "topic_id": 1113},
+      {"name": "Simple oxides", "topic_id": 1114},
+      {"name": "Ozone", "topic_id": 1115},
+      {"name": "sulphur-allotrophic forms", "topic_id": 1116},
+      {"name": "Sulphur dioxide", "topic_id": 1117},
+      {"name": "oxoacids of sulphur", "topic_id": 1118},
+      {"name": "sulphuric acids", "topic_id": 1119},
+      {"name": "Group 17 elements", "topic_id": 1120},
+      {"name": "Chlorine", "topic_id": 1121},
+      {"name": "Hydrogen chloride", "topic_id": 1122},
+      {"name": "oxoacids of halogen", "topic_id": 1123},
+      {"name": "interhalogen compounds", "topic_id": 1124},
+      {"name": "Group 18 Elements", "topic_id": 1125}
+    ],
+    "The D block and F block elements": [
+      {"name": "Position in the periodic table", "topic_id": 1126},
+      {"name": "Electronic configuration of the d block elements", "topic_id": 1127},
+      {"name": "General properties of the transition elements(D block)", "topic_id": 1128},
+      {"name": "Some important compounds of transition elements", "topic_id": 1129},
+      {"name": "The lanthanoids", "topic_id": 1130},
+      {"name": "The Actinoids", "topic_id": 1133},
+      {"name": "Some applications of d block and f block elements", "topic_id": 1131}
+    ],
+    "Co-ordination compounds": [
+      {"name": "Werner's theory of coordination compound", "topic_id": 1132},
+      {"name": "Defination of some important terms pertaining to coordination compounds", "topic_id": 1135},
+      {"name": "nomenclature of coordination compounds", "topic_id": 1134},
+      {"name": "isomerism in coordination compounds", "topic_id": 1136},
+      {"name": "bonding in coordination compounds", "topic_id": 1137},
+      {"name": "bonding in metal carbonyls", "topic_id": 1138},
+      {"name": "importance and application of coordination compound", "topic_id": 1139}
+    ],
+    "Haloalkanes and haloarenes": [
+      {"name": "classification", "topic_id": 1140},
+      {"name": "nomenclature", "topic_id": 1141},
+      {"name": "nature of C-X bond", "topic_id": 1142},
+      {"name": "Methods of preperation of haloalkenes", "topic_id": 1143},
+      {"name": "prepartion of haloarenes", "topic_id": 1144},
+      {"name": "physical properties", "topic_id": 1145},
+      {"name": "chemical reactions", "topic_id": 1146},
+      {"name": "polyhalogen compounds", "topic_id": 1147}
+    ],
+    "Alcohols, phenols and ethers": [
+      {"name": "classificaiton", "topic_id": 1148},
+      {"name": "nomenclature", "topic_id": 1149},
+      {"name": "structures of functional groups", "topic_id": 1150},
+      {"name": "alcohols and phenols", "topic_id": 1151},
+      {"name": "some commercially important alcohols", "topic_id": 1153},
+      {"name": "Ethers", "topic_id": 1154}
+    ],
+    "Aldehydes, ketones and carboxylic acid": [
+      {"name": "nomenclature and structure of carbonyl group", "topic_id": 1155},
+      {"name": "preperation of aldehydes and ketones", "topic_id": 1157},
+      {"name": "physical property", "topic_id": 1159},
+      {"name": "chemical reactions", "topic_id": 1160},
+      {"name": "uses of aldehydes and ketones", "topic_id": 1161},
+      {"name": "nomenclature and structure of carboxyl groups", "topic_id": 1162},
+      {"name": "methods of preparation of carboxylic acids", "topic_id": 1163},
+      {"name": "physical properties", "topic_id": 1164},
+      {"name": "chemical reactions", "topic_id": 1165},
+      {"name": "uses of carboxylic acids", "topic_id": 1166}
+    ],
+    "Amines": [
+      {"name": "Structure of amines", "topic_id": 1167},
+      {"name": "classification", "topic_id": 1168},
+      {"name": "nomenclature", "topic_id": 1169},
+      {"name": "prepartion of amines", "topic_id": 1170},
+      {"name": "physical properties", "topic_id": 1171},
+      {"name": "chemical properties", "topic_id": 1172},
+      {"name": "chemical reaction", "topic_id": 1173},
+      {"name": "methods of preparation of diazonium salts", "topic_id": 1174},
+      {"name": "physical properties", "topic_id": 1175},
+      {"name": "chemical reactions", "topic_id": 1176},
+      {"name": "importance of diazonium salts in synthesis of aromatic compounds", "topic_id": 1177}
+    ],
+    "Biomolecules": [
+      {"name": "carbohydrates", "topic_id": null},
+      {"name": "proteins", "topic_id": 1178},
+      {"name": "enzymes", "topic_id": 1179},
+      {"name": "vitamins", "topic_id": 1180},
+      {"name": "nuclic acids", "topic_id": 1181},
+      {"name": "hormones", "topic_id": 1182}
+    ],
+    "Polymers": [
+      {"name": "Classificaiton of polymers", "topic_id": 1183},
+      {"name": "types of polymerisation reactions", "topic_id": 1184},
+      {"name": "molecular mass of polymers", "topic_id": 1185},
+      {"name": "biodegradable polymers", "topic_id": 1186},
+      {"name": "polymers of commercial importance", "topic_id": 1187}
+    ],
+    "Chemistry in everyday life": [
+      {"name": "Drugs and classification", "topic_id": 1188},
+      {"name": "drug - target interaction", "topic_id": 1189},
+      {"name": "therapeutic action of different classes of drugs", "topic_id": 1190},
+      {"name": "chemicals in food", "topic_id": 1191},
+      {"name": "cleansing agents", "topic_id": 1192}
+    ]
+  },"Biology": {
+    "The Living World": [
+      {"name": "Diversity in the Living World", "topic_id": 1387},
+      {"name": "Taxonomic Categories", "topic_id": 1388}
+    ],
+    "Biological Classification": [
+      {"name": "Introduction", "topic_id": 1389},
+      {"name": "Kingdom Monera", "topic_id": 1390},
+      {"name": "Kingdom Protista", "topic_id": 1391},
+      {"name": "Kingdom Fungi", "topic_id": 1392},
+      {"name": "Kingdom Plantae", "topic_id": 1393},
+      {"name": "Kingdom Animalia", "topic_id": 1394},
+      {"name": "Viruses, Viroids, Prions and Lichens", "topic_id": 1395}
+    ],
+    "Plant Kingdom": [
+      {"name": "Introduction", "topic_id": 1396},
+      {"name": "Algae", "topic_id": 1397},
+      {"name": "Bryophytes", "topic_id": 1398},
+      {"name": "Pteridophytes", "topic_id": 1399},
+      {"name": "Gymnosperms", "topic_id": 1400},
+      {"name": "Angiosperms", "topic_id": 1401}
+    ],
+    "Animal Kingdom": [
+      {"name": "Basics of Classifications", "topic_id": 1402}
+    ],
+    "Morphology of Flowering Plants": [
+      {"name": "The Root", "topic_id": 1403},
+      {"name": "The Stem", "topic_id": 1405},
+      {"name": "The Leaf", "topic_id": 1406},
+      {"name": "The Inflorescence", "topic_id": 1407},
+      {"name": "The Flower", "topic_id": 1408},
+      {"name": "The Fruit", "topic_id": 1409},
+      {"name": "The Seed", "topic_id": 1410},
+      {"name": "Semi-Technical Description of Typical Flowering Plant", "topic_id": 1411},
+      {"name": "Description of Some Important Families", "topic_id": 1412}
+    ],
+    "Anatomy of Flowering Plants": [
+      {"name": "The Tissue System", "topic_id": 1413},
+      {"name": "Anatomy of Dicotyledonous and Monocotyledonous Plants", "topic_id": 1414}
+    ],
+    "Structural Organisation in Animals": [
+      {"name": "Animal Tissues", "topic_id": 1415},
+      {"name": "Frog", "topic_id": 1416}
+    ],
+    "Cell - The Unit of Life": [
+      {"name": "What is a Cell?", "topic_id": 1417},
+      {"name": "Cell Theory", "topic_id": 1418},
+      {"name": "An Overview of Cell", "topic_id": 1419},
+      {"name": "Prokaryotic Cell", "topic_id": 1420},
+      {"name": "Eukaryotic Cell", "topic_id": 1421}
+    ],
+    "Biomolecules": [
+      {"name": "How to Analyse Chemical Composition?", "topic_id": 1422},
+      {"name": "Primary and Secondary Metabolites", "topic_id": 1423},
+      {"name": "Proteins", "topic_id": 1424},
+      {"name": "Polysaccharides", "topic_id": 1425},
+      {"name": "Nucleic Acids", "topic_id": 1426},
+      {"name": "Structure of Proteins", "topic_id": 1427},
+      {"name": "Enzymes", "topic_id": 1428}
+    ],
+    "Cell Cycle and Cell Division": [
+      {"name": "Cell Cycle", "topic_id": 1429},
+      {"name": "M Phase and Significance of Mitosis", "topic_id": 1430},
+      {"name": "Meiosis and Significance of Meiosis", "topic_id": 1431}
+    ],
+    "Photosynthesis in Higher Plants": [
+      {"name": "Early Experiments", "topic_id": 1432},
+      {"name": "Where does Photosynthesis Take Place?", "topic_id": 1433},
+      {"name": "How Many Types of Pigments are Involved in Photosynthesis", "topic_id": 1434},
+      {"name": "What is Light Reaction?", "topic_id": 1435},
+      {"name": "The Electron Transport", "topic_id": 1436},
+      {"name": "Where are the ATP and NADPH Used?", "topic_id": 1437},
+      {"name": "The C4 Pathway", "topic_id": 1438},
+      {"name": "Photorespiration", "topic_id": 1439},
+      {"name": "Factors Affecting Photosynthesis", "topic_id": 1440}
+    ],
+    "Respiration in Plants": [
+      {"name": "Glycolysis", "topic_id": 1441},
+      {"name": "Fermentation", "topic_id": 1442},
+      {"name": "Aerobic Respiration", "topic_id": 1443},
+      {"name": "The Respiratory Balance Sheet", "topic_id": 1444},
+      {"name": "Amphibolic Pathway", "topic_id": 1445},
+      {"name": "Respiratory Quotient", "topic_id": 1446}
+    ],
+    "Plant Growth and Development": [
+      {"name": "Growth", "topic_id": 1447},
+      {"name": "Differentiation, Dedifferentiation and Redifferentiation", "topic_id": 1448},
+      {"name": "Development", "topic_id": 1449},
+      {"name": "Plant Growth Regulators", "topic_id": 1450}
+    ],
+    "Breathing and Exchange of Gases": [
+      {"name": "Respiratory Organs", "topic_id": 1451},
+      {"name": "Mechanism of Breathing", "topic_id": 1452},
+      {"name": "Exchanges of Gases", "topic_id": 1453},
+      {"name": "Transport of Gases", "topic_id": 1454},
+      {"name": "Regulation and Respiration", "topic_id": 1455},
+      {"name": "Disorders of Respiratory System", "topic_id": 1456}
+    ],
+    "Body Fluids and Circulation": [
+      {"name": "Blood", "topic_id": 1457},
+      {"name": "Lymph (Tissue Fluid)", "topic_id": 1458},
+      {"name": "Circulatory Pathways", "topic_id": 1459},
+      {"name": "Double Circulation", "topic_id": 1460},
+      {"name": "Regulation of Cardiac Activity", "topic_id": 1461},
+      {"name": "Disorders of Circulatory System", "topic_id": 1462}
+    ],
+    "Excretory Products and Their Elimination": [
+      {"name": "Introduction", "topic_id": 1463},
+      {"name": "Human Excretory System", "topic_id": 1464},
+      {"name": "Urine Formation", "topic_id": 1465},
+      {"name": "Function of the Tubules", "topic_id": 1466},
+      {"name": "Mechanism of Concentration of the Filtrate", "topic_id": 1467},
+      {"name": "Regulation of Kidney Function", "topic_id": 1468},
+      {"name": "Micturtion", "topic_id": 1469},
+      {"name": "Disorders of the Excretory System", "topic_id": 1470}
+    ],
+    "Locomotion and Movement": [
+      {"name": "Muscle", "topic_id": 1471},
+      {"name": "Skeletal System", "topic_id": 1472},
+      {"name": "Joints", "topic_id": 1473},
+      {"name": "Disorders of Muscular and Skeletal System", "topic_id": 1474}
+    ],
+    "Neural Control and Coordination": [
+      {"name": "Human Neural System", "topic_id": 1475},
+      {"name": "Neurons as Structural and Functional Unit of Neural System", "topic_id": 1476},
+      {"name": "Central Neural System", "topic_id": 1477}
+    ],
+    "Chemical Coordination and Integration": [
+      {"name": "Introduction", "topic_id": 1478},
+      {"name": "Human Endocrine System", "topic_id": 1479},
+      {"name": "Hormones of Heart, Kidney and Gastrointestinal Tract", "topic_id": 1480},
+      {"name": "Mechanism of Hormone Action", "topic_id": 1481}
+    ],
+    "Sexual Reproduction in Flowering Plants": [
+      {"name": "Pre-Fertilisation : Stuctures and Events", "topic_id": 1482},
+      {"name": "Double Fertilisation", "topic_id": 1483},
+      {"name": "Post-Fertilisation : Structures and Events", "topic_id": 1484},
+      {"name": "Apomixis and Polyembryony", "topic_id": 1485}
+    ],
+    "Human Reproduction": [
+      {"name": "The Male Reproductive System", "topic_id": 1486},
+      {"name": "The Female Reproductive System", "topic_id": 1487},
+      {"name": "Gametogeneisis", "topic_id": 1488},
+      {"name": "Menstrual Cycle", "topic_id": 1489},
+      {"name": "Fertilisation and Implantation", "topic_id": 1490},
+      {"name": "Pregnancy and Embryonic Development", "topic_id": 1491},
+      {"name": "Parturition and Lactation", "topic_id": 1492}
+    ],
+    "Reproductive Health": [
+      {"name": "Reproductive Health : Problems and Strategies", "topic_id": 1493},
+      {"name": "Population Stabilisation and Birth Control", "topic_id": 1494},
+      {"name": "Medical Termination of Pregnancy (MTP)", "topic_id": 1495},
+      {"name": "Sexually Transmitted Infections (STIs)", "topic_id": 1496},
+      {"name": "Infertility", "topic_id": 1497}
+    ],
+    "Principles of Inheritance and Variation": [
+      {"name": "Mendal's Laws of Inheritance", "topic_id": 1498},
+      {"name": "Inheritance of One Gene", "topic_id": 1499},
+      {"name": "Inheritance of Two Gene", "topic_id": 1500},
+      {"name": "Polygenic Inheritance", "topic_id": 1501},
+      {"name": "Pleiotropy", "topic_id": 1502},
+      {"name": "Sex Determination", "topic_id": 1503},
+      {"name": "Mutation", "topic_id": 1504},
+      {"name": "Genetic Disorders", "topic_id": 1505}
+    ],
+    "Molecular Basic of Inheritance": [
+      {"name": "The DNA", "topic_id": 1506},
+      {"name": "The Search for Genetic Material", "topic_id": 1507},
+      {"name": "RNA World", "topic_id": 1508},
+      {"name": "Replication", "topic_id": 1509},
+      {"name": "Transcription", "topic_id": 1510},
+      {"name": "Genetic Code", "topic_id": 1511},
+      {"name": "Translation", "topic_id": 1512},
+      {"name": "Regulation and Gene Expression", "topic_id": 1513},
+      {"name": "Human Genome Project", "topic_id": 1514},
+      {"name": "DNA Fingerprinting", "topic_id": 1515}
+    ],
+    "Evolution": [
+      {"name": "Origin of Life", "topic_id": 1516},
+      {"name": "Evolution of Life Forms - A Thoery", "topic_id": 1517},
+      {"name": "What are Evidences for Evolution?", "topic_id": 1518},
+      {"name": "What is Adaptive Radiation?", "topic_id": 1519},
+      {"name": "Biological Evolution", "topic_id": 1520},
+      {"name": "Mechanism of Evolution", "topic_id": 1521},
+      {"name": "Hardy-Weinberg Principle", "topic_id": 1522},
+      {"name": "A Brief Account of Evolution", "topic_id": 1523},
+      {"name": "Origin and Evolution of Man", "topic_id": 1524}
+    ],
+    "Human Health and Diseases": [
+      {"name": "Common Diseases in Humans", "topic_id": 1525},
+      {"name": "Immunity", "topic_id": 1526},
+      {"name": "AIDS", "topic_id": 1527},
+      {"name": "Cancer", "topic_id": 1528},
+      {"name": "Drugs and Alcohol Abuse", "topic_id": 1529}
+    ],
+    "Microbes in Human Welfare": [
+      {"name": "Microbes in Household Products", "topic_id": 1530},
+      {"name": "Microbes in Industrial Products", "topic_id": 1531},
+      {"name": "Microbes in Sewage Treatment", "topic_id": 1532},
+      {"name": "Microbes in Production of Biogas", "topic_id": 1533},
+      {"name": "Microbes as Biocontrol Agents", "topic_id": 1534},
+      {"name": "Microbes as Biofertilisers", "topic_id": 1535}
+    ],
+    "Biotechnology : Principles and Processes": [
+      {"name": "Principles of Biotechnology", "topic_id": 1536},
+      {"name": "Tools of Recombinant DNA Technology", "topic_id": 1537},
+      {"name": "Processes of Recombinant DNA Technology", "topic_id": 1538}
+    ],
+    "Biotechnology and Its Applications": [
+      {"name": "Biotechnological Applications in Agriculture", "topic_id": 1539},
+      {"name": "Biotechnological Applications in Medicine", "topic_id": 1540},
+      {"name": "Transgenic Animals", "topic_id": 1541},
+      {"name": "Ethical Issues", "topic_id": 1542}
+    ],
+    "Organism and Populations": [
+      {"name": "Populations", "topic_id": 1543}
+    ],
+    "Ecosystem": [
+      {"name": "Introduction", "topic_id": 1544},
+      {"name": "Ecosystem - Structure and Function", "topic_id": 1545},
+      {"name": "Productivity", "topic_id": 1546},
+      {"name": "Decomposition", "topic_id": 1547},
+      {"name": "Energy Flow", "topic_id": 1548},
+      {"name": "Ecological Pyramids", "topic_id": 1549}
+    ],
+    "Biodiversity and Conservation": [
+      {"name": "Biodiversity", "topic_id": 1550},
+      {"name": "Biodiversity Conservation", "topic_id": 1551}
+    ]
+  }
+}
