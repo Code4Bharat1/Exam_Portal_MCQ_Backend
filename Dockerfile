@@ -23,7 +23,7 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Expose port
-EXPOSE 6003
+EXPOSE 6004
 
 # Run the app with waitress
 CMD ["python", "app.py"]

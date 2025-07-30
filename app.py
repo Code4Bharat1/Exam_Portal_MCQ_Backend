@@ -325,4 +325,4 @@ def api_assess_difficulty():
 if __name__ == "__main__":
     from waitress import serve
     print("the server is running on port 603")
-    serve(app, host="0.0.0.0", port=6003)
+    serve(app, host="0.0.0.0", port=6004)
