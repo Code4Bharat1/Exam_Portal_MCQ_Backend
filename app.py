@@ -278,6 +278,11 @@ def extract_mcqs_api():
     else:
         return jsonify({"error": "No PDF or image file provided. Upload with key 'pdf' or 'image'."}), 400
 
+
+@app.route("/api/health", methods=["GET"])
+def health_check():
+    return jsonify({"status": "ok", "message": "MCQ API is running"}), 200
+
 @app.route('/api/assess-difficulty', methods=['POST'])
 def api_assess_difficulty():
     try:
@@ -318,4 +323,5 @@ def api_assess_difficulty():
 
 if __name__ == "__main__":
     from waitress import serve
+    print("the server is running on the port 5000")
     serve(app, host="0.0.0.0", port=5000)

@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+pdf2image
+opencv-python
+pillow
+requests
+numpy
+waitress
