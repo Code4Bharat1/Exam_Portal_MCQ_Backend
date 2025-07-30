@@ -47,7 +47,7 @@ GEMINI_ASSESS_URL = (
 )
 
 app = Flask(__name__)
-CORS(app,origins=["*"]
+CORS(app,origins=
       ["https://superadmin-examportal.code4bharat.com/chapterwisequestion" , "http://neet720.com" , "http://admin.neet720.com","http://localhost:3000" , "http://localhost:3001"]
     )
 
@@ -324,5 +324,5 @@ def api_assess_difficulty():
 if __name__ == "__main__":
     from waitress import serve
     print("the server is running with HTTPS on port 6004")
-    app.run(host="0.0.0.0", port=6004, ssl_context=('cert.pem', 'key.pem'))
+    app.run(host="0.0.0.0", port=6004)
 
