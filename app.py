@@ -48,7 +48,7 @@ GEMINI_ASSESS_URL = (
 
 app = Flask(__name__)
 CORS(app,origins=
-      ["https://superadmin-examportal.code4bharat.com/chapterwisequestion" , "http://neet720.com" , "http://admin.neet720.com","http://localhost:3000" , "http://localhost:3001"]
+      ["https://superadmin-examportal.code4bharat.com/chapterwisequestion" , "https://neet720.com" , "https://admin.neet720.com","http://localhost:3000" , "http://localhost:3001"]
     )
 
 UPLOAD_FOLDER = "static/uploads"
